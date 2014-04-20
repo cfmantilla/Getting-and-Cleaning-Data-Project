@@ -1,3 +1,17 @@
+## This script should be run from directory "UCI HAR Dataset", the following files 
+## are used by the script:
+
+## On directory "UCI HAR Dataset":
+## - activity_labels.txt
+## - features.txt
+
+## On subdirectory test:
+## - test/y_test.txt
+## - test/subject_test.txt
+
+## On subdirectory train:
+## - train/y_train.txt
+## - train/subject_train.txt
 
 
 Activity.Labels <- read.table("activity_labels.txt", 
