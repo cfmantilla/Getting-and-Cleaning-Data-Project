@@ -32,9 +32,7 @@ The first 4 tasks are completed with the definition of object HAR
 
 The second data set as required by task #5 is defined as data frame "result" 
 ('data.frame': 180 obs. of  81 variables) and exported as file 
-'Averages_by_Activity_and_Subject.txt' on directory 'UCI HAR Dataset', this 
-file is also added to the GitHub repository 
-'https://github.com/cfmantilla/Getting-and-Cleaning-Data-Project'
+'Averages_by_Activity_and_Subject.txt' on directory 'UCI HAR Dataset'.
 
 This is the list of columns used in both dataframes, the first two are factors 
 for activity and subject code, the remaining 79 are the results of functions 
