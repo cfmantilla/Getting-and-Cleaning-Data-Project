@@ -36,5 +36,5 @@ the *test.train* data frame with Activity.Labels using the Activity.Code as the
 joining column (by default as it has the same name on both data frames).
 This result is stored in the new HAR data frame.
 
-The fifth task is completed by aggregatiog of HAR, reporting the mean of the 
+The 5th task is completed by aggregating HAR, reporting the mean of the 
 observations broken up by Subject code and Activity.Label.
